@@ -3,7 +3,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://rentoraserver.onrender.com/api", // no trailing slash
+  // baseURL: "https://rentoraserver.onrender.com/api", // no trailing slash
 });
 
 // ✅ User Auth
